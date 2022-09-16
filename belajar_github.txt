@@ -4,3 +4,4 @@ Target belajar
 - Laravel
 - Tailwind
 - Figma
+- Phososhop

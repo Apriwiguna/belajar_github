@@ -3,3 +3,4 @@ Target belajar
 - Codeigniter
 - Laravel
 - Tailwind
+- Figma

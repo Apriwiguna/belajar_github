@@ -1,2 +1,3 @@
 Halo pak nama saya ismail bin mail
 - resolusi  saya ingin membuat website menggunakan laravel, dan react js
+- Tambahan ya bro, sekalian belajar Vue dan 
